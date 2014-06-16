@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="backtracking/Java/src"/>
+	<classpathentry kind="src" path="lab D&amp;I/C++/p2/p2.3"/>
+	<classpathentry kind="src" path="lab D&amp;I/Java/p1/p1.1/src"/>
+	<classpathentry kind="src" path="lab D&amp;I/Java/p1/p1.2/src"/>
+	<classpathentry kind="src" path="lab D&amp;I/Java/p1/p1.3/src"/>
+	<classpathentry kind="src" path="lab D&amp;I/Java/p2/p2.1/src"/>
+	<classpathentry kind="src" path="lab D&amp;I/Java/p2/p2.2/src"/>
+	<classpathentry kind="src" path="lab D&amp;I/Java/p2/p2.3/src"/>
+	<classpathentry kind="src" path="lab dinamica/Java/p1/src"/>
+	<classpathentry kind="src" path="lab dinamica/Java/p3/src"/>
+	<classpathentry kind="src" path="lab Greedy/Java/p1/src"/>
+	<classpathentry kind="src" path="lab Greedy/Java/p2/src"/>
+	<classpathentry kind="src" path="lab Greedy/Java/p3/p3.1/src"/>
+	<classpathentry kind="src" path="lab Greedy/Java/p3/p3.2/src"/>
+	<classpathentry kind="src" path="minimax/Java/p1"/>
+	<classpathentry kind="src" path="minimax/Java/p2"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="lab Greedy/Java/p1/bin"/>
+</classpath>
